@@ -36,7 +36,8 @@
       "question": "Qual o seu maior foco ?",
       "options":[
         {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 2, "name":"Salvar a cidade", "alias":"B"},
+        {"id": 3, "name":"Ser o mais forte", "alias":"B"}
       ]
     },
     {
@@ -44,7 +45,8 @@
       "question": "Qual o seu apelido de super ser ?",
       "options":[
         {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"},
+        {"id": 3, "name":"Rei das maldições", "alias":"B"}
       ]
     }
   ],
